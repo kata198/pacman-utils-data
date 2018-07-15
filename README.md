@@ -4,4 +4,4 @@ Data for pacman-utils
 This provides the providesDB
 
 
-providesDB last generated on: Sat May 12 01:01:44 EDT 2018
+providesDB last generated on: Sat Jul 14 21:43:04 EDT 2018
